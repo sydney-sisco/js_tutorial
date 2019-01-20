@@ -1,0 +1,2 @@
+#!/Users/sydney/.nvm/versions/node/v8.1.2/bin/node
+console.log("hello, world")
